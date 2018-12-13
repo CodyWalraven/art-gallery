@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "A gallery of Monica Hernandez artwork",
   "main": "index.html",
-  "license": "Creative Commons"
+  "license": "Creative Commons",
+  "devDependencies": {
+    "cssnano": "^4.1.7"
+  }
 }
