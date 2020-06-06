@@ -74,3 +74,23 @@ h1 {
     border-radius: 0;
   }
 }
+
+div#banner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: black;
+  width: 100%;
+  text-align: center;
+}
+div#banner-content {
+  width: 800px;
+  margin: 0 auto;
+  color: white;
+  font-size: 20px;
+  padding: 10px;
+  border: none;
+}
+div#main-content {
+  padding-top: 70px;
+}
